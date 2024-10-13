@@ -1,5 +1,4 @@
-This Page introduces how to use Numpy for Mathematics for Machine Learning subject
-# Vectors_Arrays_Matrices ✨
+# Numpy for Mathematics for Machine Learning subject ✨
 <img src = "https://github.com/rojaAchary/vectors_arrays_matrices/blob/main/Poster.png" width="1000">
 
 Programming is a great way to get insights about math concepts. You’ll see here tips and tricks to learn math, more specifically linear algebra, from a coding perspective. You’ll see the relationship between Numpy functions and linear algebra abstract concepts.
