@@ -5,11 +5,10 @@ Programming is a great way to get insights about math concepts. You’ll see her
 ...These concepts are the core of machine learning and data science.
 
 ## What you will learn
-✅Array are Data Structure t<br>
+✅Array are Data Structure that can represent vectors & matrices<br>
 ✅Multiple equal length vector stacked as table<br>
-✅Wide range of collection operations<br>
+✅Operations that can be done on vectors & matrices<br>
 ✅Data tranformation and its properties.<br>
-✅Lots of hands stuff and more...
 
 ## Libraries required 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install below
