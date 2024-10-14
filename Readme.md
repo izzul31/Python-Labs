@@ -1,12 +1,11 @@
-# Numpy for Mathematics for Machine Learning subject ✨
-<img src = "https://github.com/rojaAchary/vectors_arrays_matrices/blob/main/Poster.png" width="1000">
+# Numpy for Mathematics for Machine Learning subject
 
-Programming is a great way to get insights about math concepts. You’ll see here tips and tricks to learn math, more specifically linear algebra, from a coding perspective. You’ll see the relationship between Numpy functions and linear algebra abstract concepts.
+Programming is a great way to get insights about math concepts. You’ll see here tips and tricks to learn math, more specifically linear algebra, from a coding perspective. You’ll see the relationship between Numpy functions and linear algebra abstract concepts such as arrays ,vectors & matrices.
 
-At the end of this mini-tutorial, you’ll know what are arrays ,vectors & matrices, and why they are the core of machine learning and data science.. so lets gets started
+...These concepts are the core of machine learning and data science.
 
 ## What you will learn
-✅Array are Homogeneous Data Structure<br>
+✅Array are Data Structure t<br>
 ✅Multiple equal length vector stacked as table<br>
 ✅Wide range of collection operations<br>
 ✅Data tranformation and its properties.<br>
